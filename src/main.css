@@ -1,0 +1,19 @@
+#story-board {
+  width: 60%;
+  margin: 0 auto;
+  margin-top: 50px;
+  position: relative;
+}
+
+#story-board div{
+  position: relative;
+  font-size: 30px;
+  display: inline-block;
+  width: 30px;
+  height: 30px;
+  border: 1px solid blue;
+  border-radius: 5%;
+  padding: 10px;
+  margin: 5px;
+  text-align: center;
+}

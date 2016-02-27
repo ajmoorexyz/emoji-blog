@@ -1,0 +1,11 @@
+{
+  "name": "emoji_blog",
+  "version": "1.0.0",
+  "description": "randomly generated emoji storyboard with drag and drop and a mico blog",
+  "main": "bundle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AJ Moore <truckfondue@gmail.com> (http://truckfondue.com/)",
+  "license": "ISC"
+}
