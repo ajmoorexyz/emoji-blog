@@ -1,0 +1,31 @@
+#columns {
+  width: 87%;
+  margin: 0 auto;
+  margin-top: 50px;
+  height:150px;
+  line-height: 150px;
+  vertical-align:middle;
+  background: #2b2525;
+  border: 2px solid black;
+  text-align: center;
+  border-radius: 30px;
+}
+
+.column {
+  vertical-align: middle;
+  line-height: 100px;
+  position: relative;
+  font-size: 75px;
+  display: inline-block;
+  width: 82px;
+  height: 82px;
+  border: 2px solid navajowhite;
+  background: #7cc7c9;
+  border-radius: 30%;
+  padding: 10px;
+  margin: 3px;
+  text-align: center;
+  cursor: move;
+  text-shadow: #000 0 1px;
+  padding: 10px;
+}
