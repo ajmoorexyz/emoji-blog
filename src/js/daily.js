@@ -1,5 +1,6 @@
   'use strict'
-  let lib = require('../simplemap.json')
+  let lib = require('../emojis.js').default
+  console.log(lib)
 
   // transform Object to Array 
   let arr = []
