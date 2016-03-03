@@ -1,6 +1,6 @@
-  'use strict'
+// use classes  
+'use strict'
   let lib = require('../emojis.js').default
-  console.log(lib)
 
   // transform Object to Array 
   let arr = []
@@ -22,6 +22,7 @@
     return dayEmoji
   }
 
+// make better
   // secrect sauce randomizer
   function gen() {
     return Math.floor(Math.random()*length)
