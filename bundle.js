@@ -60,9 +60,10 @@
 /* 1 */
 /***/ function(module, exports, __webpack_require__) {
 
+	// use classes 
 	'use strict';
 
-	var lib = __webpack_require__(2);
+	var lib = __webpack_require__(2).default;
 
 	// transform Object to Array
 	var arr = [];
@@ -84,6 +85,7 @@
 	  return dayEmoji;
 	}
 
+	// make better
 	// secrect sauce randomizer
 	function gen() {
 	  return Math.floor(Math.random() * length);
